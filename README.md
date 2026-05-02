@@ -1,4 +1,4 @@
-# DSA Lock
+# DSA Lockdown
 
 A macOS lockdown tool to force-focus your study sessions on LeetCode. Blocks distraction and logs emergency exits.
 
