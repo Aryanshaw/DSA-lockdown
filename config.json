@@ -1,0 +1,13 @@
+{
+  "duration_minutes": 120,
+  "start_hour": 20,
+  "allowed_domains": [
+    "leetcode.com",
+    "chatgpt.com",
+    "neetcode.io"
+  ],
+  "allowed_apps": [
+    "Google Chrome"
+  ],
+  "check_interval_seconds": 2
+}
