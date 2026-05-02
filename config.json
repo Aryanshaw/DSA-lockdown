@@ -1,6 +1,6 @@
 {
   "duration_minutes": 120,
-  "start_hour": 20,
+  "start_hour": 23,
   "allowed_domains": [
     "leetcode.com",
     "chatgpt.com",
